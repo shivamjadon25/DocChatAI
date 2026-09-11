@@ -1,0 +1,19 @@
+Project Code Name: AG-99
+Project Title: Antigravity Chatbot System
+
+Overview:
+The Antigravity Chatbot System is an advanced RAG (Retrieval-Augmented Generation) application designed to search and answer user queries based on a single uploaded file. It runs locally and leverages the Gemini API free tier.
+
+Project Schedule and Milestones:
+- Phase 1: In-memory custom vector database development (Completed: August 2026)
+- Phase 2: Intent routing and clarifying/probing system integration (Completed: August 2026)
+- Phase 3: ChatGPT-style Streamlit web UI deployment (Scheduled: September 2026)
+- Phase 4: Scaling to multiple concurrent documents (Scheduled: November 2026)
+
+Development Team:
+- Lead RAG Engineer: Antigravity AI (Agent)
+- Product Manager: Alice Smith (alice.smith@example.com)
+- QA Lead: Bob Johnson (bob.johnson@example.com)
+
+Contact Details:
+For any technical support or questions regarding the project milestones, contact the team at project-ag99@example.com.
